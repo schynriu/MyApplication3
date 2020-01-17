@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">test</string>
+    <string name="button">Android: layout_gravity=Right</string>
+    <string name="button2">Android:Gravity=right</string>
+    <string name="button3">Android:Gravity=left</string>
+    <string name="button4">Android:Layout_Gravity=left</string>
+</resources>
